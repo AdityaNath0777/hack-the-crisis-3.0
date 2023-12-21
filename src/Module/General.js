@@ -78,7 +78,7 @@ const TOP_SECTION = {
   TITLE: "Hack The Crisis 3.0",
   Typed_effect: ["24 hours of creation", "Win awesome prizes","Increase your Network","Push your Limits!"],
   SHORT_DESCRIPTION:
-    "Join us on 13th March - 14th March 2024 from across the nation for 24 hours of creation, innovation, & fun.",
+    "Join us on 7th March - 8th March 2024 from across the nation for 24 hours of creation, innovation, & fun.",
   IMG_SRC: boy,
   DISCORD_LINK: "",
   JUDGES_FORM_LINK: "./",
